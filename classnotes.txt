@@ -1,7 +1,6 @@
 Lifecycle management: 
 https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html#:~:text=There%20are%20three%20built%2Din,of%20your%20project's%20web%20site.
 
-Github repo: https://github.com/akshu20791/DevOpsClassCodes
 
 QA tools: https://maven.apache.org/plugins/maven-pmd-plugin/
 
