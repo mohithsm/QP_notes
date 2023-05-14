@@ -1,0 +1,4 @@
+Assignment :
+
+1) Create ec2 machines -> launch hi world in ec2 machines
+-> launch load balancer -> create a snapshot of the machine -> create image -> create launch template -> create a autoscaling group and attach the load balancer while creating the group itself -> you can open the website via lb dns 
